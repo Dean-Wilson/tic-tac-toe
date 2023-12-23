@@ -71,6 +71,10 @@ body {
   width: 80px;
 }
 
+.winning {
+  background: yellow;
+}
+
 .board-row:after {
   clear: both;
   content: '';
